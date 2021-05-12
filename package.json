@@ -1,8 +1,8 @@
 {
-  "name": "@tofusoup429/react-component-module-frame",
+  "name": "@tofusoup429/file-systems",
   "version": "0.0.1",
-  "description": "Frame for publishing react component",
-  "homepage": "https://github.com/tofusoup429/react-component-module-frame",
+  "description": "React module rendering filesystems such as folder path",
+  "homepage": "https://github.com/tofusoup429/filesystems",
   "main": "index.ts",
   "license": "MIT",
   "scripts": {
