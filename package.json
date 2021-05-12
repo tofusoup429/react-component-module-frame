@@ -1,7 +1,8 @@
 {
-  "name": "@tofusoup429/react-component-module-framework",
+  "name": "@tofusoup429/react-component-module-frame",
   "version": "0.0.1",
   "description": "Frame for publishing react component",
+  "homepage": "https://github.com/tofusoup429/react-component-module-frame",
   "main": "index.ts",
   "license": "MIT",
   "scripts": {
