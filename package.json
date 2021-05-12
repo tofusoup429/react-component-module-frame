@@ -1,8 +1,8 @@
 {
-  "name": "@tofusoup429/file-systems",
+  "name": "@tofusoup429/react-component-module-frame",
   "version": "0.0.1",
-  "description": "React module rendering filesystems such as folder path",
-  "homepage": "https://github.com/tofusoup429/filesystems",
+  "description": "React module frame",
+  "homepage": "https://github.com/tofusoup429/react-component-module-frame",
   "main": "index.ts",
   "license": "MIT",
   "scripts": {
