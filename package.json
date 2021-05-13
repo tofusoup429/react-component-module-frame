@@ -1,6 +1,6 @@
 {
   "name": "@tofusoup429/react-component-module-frame",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "React module frame",
   "homepage": "https://github.com/tofusoup429/react-component-module-frame",
   "main": "index.ts",
