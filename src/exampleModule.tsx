@@ -26,10 +26,14 @@ const StyledRotatingText = styled.div`
     margin:auto;
 `
 
-export const RotatingText = (_text:string="ReactComponentModuleFrame")=>{
+interface Props{
+    text:string
+}
+
+export const RotatingText = ({text}:Props)=>{
     return(
         <StyledCenter>
-            <StyledRotatingText>{_text}</StyledRotatingText>
+            <StyledRotatingText>{text}</StyledRotatingText>
         </StyledCenter>             
     )
 }
