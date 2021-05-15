@@ -9,16 +9,16 @@
 git clone git@github.com:tofusoup429/react-component-module-frame.git
 ```
 -----------------------------------------------------------------------------------------------------------------------
-#### Fill in your own component inside /src and export it from index.ts.
+#### Replace files inside /src with your own component(s) and export them from index.ts.
 -----------------------------------------------------------------------------------------------------------------------
 
-#### Once your components are ready to be published, enter your own package name in package.json. And build. 
+#### Once your components are ready to be published, replace name in package.json with your own package name. And build. 
  
-#### the build command transpiles the files in the src folder into dist with ts declaration files such as exampleModule.d.ts.
 #### To build
 ```
 yarn build
 ``` 
+#### the build command transpiles the files located in /src into /dist with ts declaration files such as exampleModule.d.ts.
 -----------------------------------------------------------------------------------------------------------------------
 #### To publish
 ```
