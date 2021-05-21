@@ -6,7 +6,7 @@
 
 #### To download this project  
 ```
-git clone https://github.com/tofusoup429/components-in-loading.git
+git clone https://github.com/tofusoup429/react-component-module-frame.git
 ```
 -----------------------------------------------------------------------------------------------------------------------
 #### Replace files inside /src with your own component(s) and export them from index.ts.
